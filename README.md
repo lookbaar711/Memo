@@ -1,2 +1,2 @@
-# Memo (2017)
+# Memo API (2017)
 # PHP
